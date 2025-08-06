@@ -21,12 +21,12 @@
 ### 🛠️ Tecnologias e Ferramentas  
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">  
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">  
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">  
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">  
 </div>  
 
 ---
@@ -34,25 +34,16 @@
 🌟 **Vamos conversar!** Adoro conhecer novas pessoas e trocar ideias sobre tecnologia e inovação.  
 
 📊 **Estatísticas do GitHub:**  
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroBosa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&animation=spin" alt="Estatísticas do GitHub" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBosa&layout=compact&theme=radical&border_radius=10&langs_count=6&animation=pulse" alt="Linguagens mais usadas" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: stretch; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroBosa&show_icons=true&theme=dracula&custom_title=Minhas%20Estatísticas&hide_border=true&line_height=24" alt="Estatísticas do GitHub" style="height: 195px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBosa&layout=compact&theme=dracula&hide_border=true&langs_count=6&card_width=300" alt="Linguagens mais usadas" style="height: 195px;">
 </div>
 
 ---
 
-🐍 **Minha contribuição diária**  
-![Snake animation](https://github.com/PedroBosa/PedroBosa/blob/output/github-contribution-grid-snake.svg)
+💡 "A tecnologia move o mundo, mas o aprendizado move a tecnologia."
 
----  
+---
 
-💡 **"A tecnologia move o mundo, mas o aprendizado move a tecnologia."**  
-
----  
-
-### 👀 Visitantes  
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://profile-counter.glitch.me/PedroBosa/count.svg" alt="Contador de visitas" style="height: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=PedroBosa&color=blueviolet&style=flat-square" alt="Contador de visitas">
-</div>
+👀 Visitantes
+https://komarev.com/ghpvc/?username=PedroBosa&color=blue&style=flat
