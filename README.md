@@ -34,14 +34,9 @@
 🌟 **Vamos conversar!** Adoro conhecer novas pessoas e trocar ideias sobre tecnologia e inovação.  
 
 📊 **Estatísticas do GitHub:**  
-
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=PedroBosa&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBosa&layout=compact&theme=dracula" alt="Linguagens mais usadas">
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroBosa&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBosa&layout=compact&theme=dracula" alt="Linguagens mais usadas">
 </div>
 
 ---  
