@@ -41,9 +41,10 @@
 
 ---
 
-💡 "A tecnologia move o mundo, mas o aprendizado move a tecnologia."
+💡 **"A tecnologia move o mundo, mas o aprendizado move a tecnologia."**  
 
----
+---  
 
-👀 Visitantes
-https://komarev.com/ghpvc/?username=PedroBosa&color=blue&style=flat
+### 👀 Visitantes  
+
+![Contador de visitas](https://komarev.com/ghpvc/?username=PedroBosa&color=blue&style=flat)  
