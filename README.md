@@ -13,7 +13,6 @@
 - 📫 Como me encontrar:  
   - ✉️ Email: **pedrolucasfbosa@gmail.com**  
   - 🔗 LinkedIn: **[Pedro Lucas F. Bosa](https://www.linkedin.com/in/pedro-lucas-ferreira-bosa-868287298/)**  
-  - 🐦 Twitter/X: **[@seuuser](https://twitter.com/seuuser)**  
 - 😄 Pronomes: **ele/dele**  
 
 ---
