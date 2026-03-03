@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Roda todo dia à meia-noite UTC
   workflow_dispatch: # Permite rodar manualmente
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
