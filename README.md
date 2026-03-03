@@ -56,40 +56,33 @@ class PedroBosa:
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%"><b>💻 Linguagens</b></td>
-<td align="center" width="25%"><b>🌐 Web</b></td>
-<td align="center" width="25%"><b>🗄️ Banco de Dados</b></td>
-<td align="center" width="25%"><b>⚙️ Ferramentas</b></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-</td>
-</tr>
-</table>
+**💻 Linguagens**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**🌐 Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**🗄️ Banco de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**⚙️ Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
 
@@ -97,34 +90,34 @@ class PedroBosa:
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
+### 🔥 [FireControl](https://github.com/PedroBosa/firecontrol) — SNCT 2025
 
-| Projeto | Descrição | Tecnologias | Evento |
-|:-------:|:---------:|:-----------:|:------:|
-| 🔥 **[FireControl](https://github.com/PedroBosa/firecontrol)** | Monitoramento de queimadas em tempo real com mapa de focos de calor | `ESP32` `Flutter` `Firebase` `NASA API` `IQAir` | SNCT 2025 |
-| 🌾 **[Colheita Solidária](https://github.com/PedroBosa/colheita-solidaria)** | Plataforma de doação de alimentos excedentes de lavouras | `PHP` `HTML` `CSS` `JavaScript` `MySQL` | SNCT 2025 |
-
-</div>
-
-<details>
-<summary>📌 <b>Detalhes dos projetos</b> (clique para expandir)</summary>
-<br/>
-
-### 🔥 FireControl — SNCT 2025
 > Sistema de **monitoramento de queimadas** em tempo real com mapa de focos de calor.
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![NASA](https://img.shields.io/badge/NASA%20API-E03C31?style=flat-square&logo=nasa&logoColor=white)
 
 - 📡 **Hardware:** ESP32 com sensores de chama e qualidade do ar
 - 📱 **App mobile** com Flutter e mapa interativo
 - ☁️ **Dados em tempo real** via Firebase
 - 🛰️ **Integração** com API da NASA e IQAir
 
-### 🌾 Colheita Solidária — SNCT 2025
+---
+
+### 🌾 [Colheita Solidária](https://github.com/PedroBosa/colheita-solidaria) — SNCT 2025
+
 > Plataforma web para **doação de alimentos excedentes** de lavouras, combatendo o desperdício.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 - 💻 **Stack:** PHP, HTML, CSS, JavaScript e MySQL
 - 🤝 Conecta produtores rurais com quem precisa
-
-</details>
 
 ---
 
@@ -161,16 +154,10 @@ class PedroBosa:
 
 ## 🏅 Certificações & Formação
 
-<div align="center">
-
-| Certificação | Carga Horária | Evento/Instituição | Ano |
-|:-------------|:-------------:|:-------------------:|:---:|
-| 🤖 Introdução à Robótica com IA | 4h | CAIS TECH | 2024 |
-| 🤖 Atendente Virtual com ChatBot | 4h | INOVAIFPI | 2025 |
-| 📚 Ferramentas Digitais para Trabalhos Acadêmicos | — | INOVAIFPI | 2025 |
-| 🎓 Técnico em Informática | — | IFPI Campus Floriano | 2024 |
-
-</div>
+- 🤖 **Introdução à Robótica com IA** — 4h | CAIS TECH 2024
+- 🤖 **Atendente Virtual com ChatBot** — 4h | INOVAIFPI 2025
+- 📚 **Ferramentas Digitais para Trabalhos Acadêmicos** — INOVAIFPI 2025
+- 🎓 **Técnico em Informática** — IFPI Campus Floriano 2024
 
 ---
 
