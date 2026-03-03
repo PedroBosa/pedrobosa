@@ -148,15 +148,15 @@ class PedroBosa:
 <div align="center">
 
 <a href="https://github.com/PedroBosa">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroBosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroBosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0d1117&locale=pt-br"/>
 </a>
 <a href="https://github.com/PedroBosa">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroBosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroBosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&locale=pt-br"/>
 </a>
 
 <br/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroBosa&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroBosa&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&locale=pt_BR"/>
 
 </div>
 
