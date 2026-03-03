@@ -147,8 +147,12 @@ class PedroBosa:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroBosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0d1117"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117"/>
+<a href="https://github.com/PedroBosa">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroBosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0d1117"/>
+</a>
+<a href="https://github.com/PedroBosa">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroBosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117"/>
+</a>
 
 <br/>
 
@@ -160,7 +164,11 @@ class PedroBosa:
 
 <div align="center">
 
-![Snake animation](https://github.com/PedroBosa/PedroBosa/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBosa/PedroBosa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroBosa/PedroBosa/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/PedroBosa/PedroBosa/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
