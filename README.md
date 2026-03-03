@@ -90,6 +90,22 @@ class PedroBosa:
 
 ## 🚀 Projetos em Destaque
 
+### ⏻ [DesligaIsso?](https://github.com/PedroBosa/DesligaIsso) — SNCT 2025 &nbsp; [![GitHub Pages](https://img.shields.io/badge/🌐_Live_Demo-222?style=flat-square)](https://pedrobosa.github.io/DesligaIsso/)
+
+> Site educacional sobre **uso consciente de redes sociais**, com dados científicos, quizzes interativos e timer de pausa digital.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white)
+
+- 🧠 **Quizzes** sobre fake news, cyberbullying, saúde mental e privacidade
+- ⏱️ **DesligaAgora** — timer de detox digital com animação SVG
+- ♿ **VLibras** integrado para acessibilidade em Libras
+- 📱 Design **100% responsivo** com animações ao scroll
+
+---
+
 ### 🔥 [FireControl](https://github.com/PedroBosa/firecontrol) — SNCT 2025
 
 > Sistema de **monitoramento de queimadas** em tempo real com mapa de focos de calor.
