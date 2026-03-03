@@ -105,8 +105,6 @@ class PedroBosa:
 |:-------:|:---------:|:-----------:|:------:|
 | 🔥 **[FireControl](https://github.com/PedroBosa/firecontrol)** | Monitoramento de queimadas em tempo real com mapa de focos de calor | `ESP32` `Flutter` `Firebase` `NASA API` `IQAir` | SNCT 2025 |
 | 🌾 **[Colheita Solidária](https://github.com/PedroBosa/colheita-solidaria)** | Plataforma de doação de alimentos excedentes de lavouras | `PHP` `HTML` `CSS` `JavaScript` `MySQL` | SNCT 2025 |
-| ♻️ **[Doações que Transformam](https://github.com/PedroBosa/doacoes-que-transformam)** | Plataforma social de campanhas de doação — [Ver online →](https://pedrobosa.github.io/doacoes-que-transformam) | `HTML` `CSS` `JavaScript` | SNCT 2024 |
-| 🌿 **[Forca Ecologia](https://github.com/PedroBosa/forca-ecologia)** | Jogo da forca com foco em conscientização ambiental | `Python` `PostgreSQL` | SNCT 2024 |
 
 </div>
 
@@ -127,17 +125,6 @@ class PedroBosa:
 
 - 💻 **Stack:** PHP, HTML, CSS, JavaScript e MySQL
 - 🤝 Conecta produtores rurais com quem precisa
-
-### ♻️ Doações que Transformam — SNCT 2024
-> Proposta social com plataforma de **campanhas de doação**.
-
-- 💻 **Stack:** HTML, CSS e JavaScript
-- 🌐 **[Ver online →](https://pedrobosa.github.io/doacoes-que-transformam)**
-
-### 🌿 Forca Ecologia — SNCT 2024
-> Jogo da forca com foco em **conscientização ambiental**.
-
-- 🐍 Desenvolvido em **Python** com banco de dados **PostgreSQL**
 
 </details>
 
