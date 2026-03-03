@@ -90,7 +90,37 @@ class PedroBosa:
 
 ## 🚀 Projetos em Destaque
 
-### ⏻ [DesligaIsso?](https://github.com/PedroBosa/DesligaIsso) — SNCT 2025 &nbsp; [![GitHub Pages](https://img.shields.io/badge/🌐_Live_Demo-222?style=flat-square)](https://pedrobosa.github.io/DesligaIsso/)
+<div align="center">
+
+### 🔥 FireControl — Projeto Destaque SNCT 2025
+
+[![Repo](https://img.shields.io/badge/🔗_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroBosa/firecontrol)
+
+</div>
+
+> **Sistema de monitoramento de queimadas em tempo real** com mapa interativo de focos de calor, sensores IoT e dados de satélite.
+
+<div align="center">
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![NASA API](https://img.shields.io/badge/NASA%20API-E03C31?style=for-the-badge&logo=nasa&logoColor=white)
+![IQAir](https://img.shields.io/badge/IQAir%20API-00C853?style=for-the-badge)
+
+</div>
+
+| Camada | Descrição |
+|:---:|---|
+| 📡 **Hardware** | ESP32 com sensores de chama e qualidade do ar (MQ-135) |
+| 📱 **Mobile** | App Flutter com mapa interativo e alertas em tempo real |
+| ☁️ **Cloud** | Firebase Realtime Database para streaming de dados |
+| 🛰️ **APIs** | NASA FIRMS (focos de calor) + IQAir (qualidade do ar) |
+
+---
+
+### ⏻ [DesligaIsso?](https://github.com/PedroBosa/DesligaIsso) — SNCT 2025 &nbsp; [![Live](https://img.shields.io/badge/🌐_Demo-222?style=flat-square)](https://pedrobosa.github.io/DesligaIsso/)
 
 > Site educacional sobre **uso consciente de redes sociais**, com dados científicos, quizzes interativos e timer de pausa digital.
 
@@ -99,26 +129,9 @@ class PedroBosa:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white)
 
-- 🧠 **Quizzes** sobre fake news, cyberbullying, saúde mental e privacidade
-- ⏱️ **DesligaAgora** — timer de detox digital com animação SVG
-- ♿ **VLibras** integrado para acessibilidade em Libras
-- 📱 Design **100% responsivo** com animações ao scroll
-
----
-
-### 🔥 [FireControl](https://github.com/PedroBosa/firecontrol) — SNCT 2025
-
-> Sistema de **monitoramento de queimadas** em tempo real com mapa de focos de calor.
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![NASA](https://img.shields.io/badge/NASA%20API-E03C31?style=flat-square&logo=nasa&logoColor=white)
-
-- 📡 **Hardware:** ESP32 com sensores de chama e qualidade do ar
-- 📱 **App mobile** com Flutter e mapa interativo
-- ☁️ **Dados em tempo real** via Firebase
-- 🛰️ **Integração** com API da NASA e IQAir
+- 🧠 Quizzes sobre fake news, cyberbullying, saúde mental e privacidade
+- ⏱️ Timer de detox digital com animação SVG
+- ♿ VLibras integrado (acessibilidade em Libras)
 
 ---
 
@@ -132,7 +145,7 @@ class PedroBosa:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- 💻 **Stack:** PHP, HTML, CSS, JavaScript e MySQL
+- 💻 Stack completa: PHP + MySQL no back-end
 - 🤝 Conecta produtores rurais com quem precisa
 
 ---
