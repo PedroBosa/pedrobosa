@@ -193,12 +193,6 @@ class PedroBosa:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PedroBosa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" />
-
-</div>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBosa/PedroBosa/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroBosa/PedroBosa/output/github-contribution-grid-snake.svg" />
