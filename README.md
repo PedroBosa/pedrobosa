@@ -1,245 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Pedro%20Bosa&fontSize=65&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20em%20Formação%20%7C%20TADS%20%40%20IFPI&descAlignY=55&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=210&section=header&text=Pedro%20Bosa&fontSize=62&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20em%20Forma%C3%A7%C3%A3o%20%C2%B7%20TADS%20%40%20IFPI&descAlignY=57&descColor=a8b2d8" alt="Pedro Bosa" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=620&lines=Segure+o+bot%C3%A3o+direito.+Arraste.+Escolha.+%E2%86%92;C%23+%C2%B7+.NET+%C2%B7+Web+%C2%B7+Banco+de+Dados;2x+Top+3+em+Maratonas+de+Programa%C3%A7%C3%A3o;Buscando+est%C3%A1gio+em+TI" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Estudante+de+TADS+%40+IFPI+%F0%9F%8E%93;Desenvolvedor+Web+Full+Stack+%F0%9F%8C%90;Entusiasta+de+IoT+%26+Hardware+%F0%9F%94%A7;Competidor+em+Maratonas+de+Programa%C3%A7%C3%A3o+%F0%9F%8F%86;Aberto+a+oportunidades+de+est%C3%A1gio+%F0%9F%9A%80" alt="Typing SVG" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrobosa)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucasfbosa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroBosa)
+![Views](https://komarev.com/ghpvc/?username=PedroBosa&label=visitantes&color=e94560&style=for-the-badge)
 
 </div>
 
----
+## Sobre
 
-<div align="center">
+**Pedro Lucas Ferreira Bosa** · Floriano, Piauí 🇧🇷
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrobosa)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucasfbosa@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroBosa)
+> Gosto de construir ferramentas pequenas que resolvem problemas reais — aquelas que a pessoa usa todo dia e nem lembra que não existiam antes.
 
-<img src="https://komarev.com/ghpvc/?username=PedroBosa&label=Visitantes&color=e94560&style=for-the-badge" alt="Profile views" />
+|  |  |
+|:--|:--|
+| 🎓 **Formação** | **TADS** no IFPI Campus Floriano (cursando) · **Técnico em Informática** pelo IFPI (2025) |
+| 🏆 **Conquistas** | 2x **Top 3** na Maratona de Programação CAIS TECH (2024 e 2025) |
+| 🧩 **Interesses** | C# / .NET · desenvolvimento web · banco de dados · IoT |
+| 📡 **Showcase** | Projetos apresentados na **Semana Nacional de Ciência e Tecnologia** |
+| 🎯 **Objetivo** | Uma oportunidade de **estágio em TI** |
 
-</div>
-
----
-
-## 🧑‍💻 Sobre mim
-
-Olá! Sou **Pedro Lucas Ferreira Bosa**, de **Floriano, Piauí** 📍
-
-🎓 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no **IFPI Campus Floriano** e recém-formado **Técnico em Informática** pelo mesmo instituto.
-
-Tenho experiência prática com **projetos reais** apresentados na **Semana Nacional de Ciência e Tecnologia (SNCT)**, atuando em:
-
-- 🌐 **Desenvolvimento Web** — front-end e back-end
-- 🗄️ **Banco de Dados** — modelagem e consultas SQL
-- 📡 **IoT & Hardware** — integração de sensores com software
-- 🛠️ **Suporte Técnico** — manutenção e infraestrutura
-
-> 🚀 **Em busca de uma oportunidade de estágio** onde possa crescer, contribuir e aprender com pessoas incríveis!
-
-```python
-class PedroBosa:
-    def __init__(self):
-        self.nome       = "Pedro Lucas Ferreira Bosa"
-        self.local      = "Floriano, PI 📍"
-        self.formacao   = "TADS @ IFPI"
-        self.objetivo   = "Estágio em TI 💼"
-        self.interesses = ["Dev Web", "Back-end", "IoT", "BD"]
-        self.conquistas = ["🏆 2x Top 3 Maratona de Programação"]
-
-    def saudacao(self):
-        return "Obrigado por visitar meu perfil! 🤝"
-```
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
+## Destaque
 
 <table>
-<tr><td valign="top" width="33%">
+<tr>
+<td width="62%" valign="top">
 
-**💻 Linguagens**
+### 🔴 RadialFlow
 
-<div align="center">
+**O menu radial do Windows.** Segure o botão direito, arraste e escolha — os comandos do arquivo ou da pasta aparecem **exatamente onde o cursor está**, sem janelas extras e sem menus aninhados.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+- ⚡ Ação em 2 movimentos, sem tirar a mão do mouse
+- 🔄 Conversão de arquivos via **FFmpeg**, **Pandoc** e **LibreOffice**
+- 🪶 Nativo em **C# / .NET / WPF** — leve, sem Electron
+- ✅ Testes automatizados rodando em CI
 
-</div>
-</td><td valign="top" width="33%">
+</td>
+<td width="38%" valign="top">
 
-**🌐 Web & Mobile**
+<br/>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/PedroBosa/RadialFlow/main/docs/images/roda.gif" alt="Demonstração do RadialFlow em uso" width="100%" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-</div>
-</td><td valign="top" width="33%">
-
-**🗄️ Banco de Dados**
+<br/>
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+[![CI](https://github.com/PedroBosa/RadialFlow/actions/workflows/ci.yml/badge.svg)](https://github.com/PedroBosa/RadialFlow/actions/workflows/ci.yml)
+[![Versão](https://img.shields.io/github/v/release/PedroBosa/RadialFlow?label=vers%C3%A3o&color=e94560&style=flat-square)](https://github.com/PedroBosa/RadialFlow/releases/latest)
+[![Stars](https://img.shields.io/github/stars/PedroBosa/RadialFlow?label=stars&color=e94560&style=flat-square)](https://github.com/PedroBosa/RadialFlow)
+[![Forks](https://img.shields.io/github/forks/PedroBosa/RadialFlow?label=forks&color=a8b2d8&style=flat-square)](https://github.com/PedroBosa/RadialFlow/network/members)
+[![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-3DA639?style=flat-square)](https://github.com/PedroBosa/RadialFlow/blob/main/LICENSE)
+[![Windows](https://img.shields.io/badge/Windows-10%20e%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)](#)
+[![Downloads](https://img.shields.io/github/downloads/PedroBosa/RadialFlow/total?label=downloads&color=16213e&style=flat-square)](https://github.com/PedroBosa/RadialFlow/releases/latest)
+
+<a href="https://github.com/PedroBosa/RadialFlow/releases/latest"><b>⬇️ Baixar o instalador</b></a>
 
 </div>
-</td></tr>
+
+</td>
+</tr>
 </table>
 
-**⚙️ Ferramentas & DevOps**
+<sub>Outros repositórios → [github.com/PedroBosa?tab=repositories](https://github.com/PedroBosa?tab=repositories)</sub>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+## Formação & Conquistas
 
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-### 🔥 [FireControl](https://github.com/PedroBosa/firecontrol) — Projeto Destaque SNCT 2025
-
-> **Sistema de monitoramento de queimadas em tempo real** com mapa interativo de focos de calor, sensores IoT e dados de satélite.
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![NASA API](https://img.shields.io/badge/NASA%20API-E03C31?style=flat-square&logo=nasa&logoColor=white)
-![IQAir](https://img.shields.io/badge/IQAir%20API-00C853?style=flat-square)
-
-</div>
-
-| Camada | Descrição |
-|:---:|---|
-| 📡 **Hardware** | ESP32 com sensores de chama e qualidade do ar (MQ-135) |
-| 📱 **Mobile** | App Flutter com mapa interativo e alertas em tempo real |
-| ☁️ **Cloud** | Firebase Realtime Database para streaming de dados |
-| 🛰️ **APIs** | NASA FIRMS (focos de calor) + IQAir (qualidade do ar) |
-
----
-
-### ⏻ [DesligaIsso?](https://github.com/PedroBosa/DesligaIsso) — SNCT 2025 &nbsp; [![Live](https://img.shields.io/badge/🌐_Demo-222?style=flat-square)](https://pedrobosa.github.io/DesligaIsso/)
-
-> Site educacional sobre **uso consciente de redes sociais**, com dados científicos, quizzes interativos e timer de pausa digital.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white)
-
-- 🧠 Quizzes sobre fake news, cyberbullying, saúde mental e privacidade
-- ⏱️ Timer de detox digital com animação SVG
-- ♿ VLibras integrado (acessibilidade em Libras)
-
----
-
-### 🌾 [Colheita Solidária](https://github.com/PedroBosa/colheita-solidaria) — SNCT 2025
-
-> Plataforma web para **doação de alimentos excedentes** de lavouras, combatendo o desperdício.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-- 💻 Stack completa: PHP + MySQL no back-end
-- 🤝 Conecta produtores rurais com quem precisa
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/PedroBosa">
-  <img height="160em" src="https://github-readme-stats.zohan.tech/api?username=PedroBosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0d1117&locale=pt-br"/>
-</a>
-<a href="https://github.com/PedroBosa">
-  <img height="160em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=PedroBosa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&locale=pt-br"/>
-</a>
+<details>
+<summary><b>Clique para expandir</b></summary>
 
 <br/>
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroBosa&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&locale=pt_BR"/>
+| Ano | Curso / Certificação | Instituição | Carga |
+|:---:|---|---|:---:|
+| **2026 – 2028** | 🎓 **TADS** — Análise e Desenvolvimento de Sistemas · 5 semestres<br/><sub>conclusão prevista: 1º semestre de 2028</sub> | IFPI Campus Floriano | 2100h |
+| **2026** | 🚀 Desafio Liga Jovem (4ª edição) | SEBRAE | 30h |
+| **2025** | 🎓 **Técnico em Informática** | IFPI Campus Floriano | 3200h |
+| **2025** | 🚀 Desafio Liga Jovem (3ª edição) | SEBRAE | 30h |
+| **2023** | 💻 Informática Básica | SENAI | 40h |
 
-</div>
+</details>
+
+<div align="center">
 
 <br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroBosa&bg_color=0d1117&color=e94560&line=e94560&point=a8b2d8&area=true&area_color=16213e&hide_border=true&custom_title=Gráfico%20de%20Contribuições" />
-
-</div>
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBosa/PedroBosa/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroBosa/PedroBosa/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/PedroBosa/PedroBosa/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribuições de PedroBosa" src="https://raw.githubusercontent.com/PedroBosa/PedroBosa/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
 
 ---
 
-## 🏅 Certificações & Formação
-
-| Ano | Certificação | Instituição | Carga Horária |
-|:---:|---|---|:---:|
-| 2025 | 🚀 **Desafio Liga Jovem — 3ª Edição** | SEBRAE | 30h |
-| 2025 | 🏆 **3º Lugar — Maratona de Programação (CAIS TECH 2025)** | IFPI Campus Floriano | — |
-| 2025 | 🤖 **Atendente Virtual com ChatBot** | INOVAIFPI | 4h |
-| 2024 | 🏆 **3º Lugar — Maratona de Programação (CAIS TECH 2024)** | IFPI Campus Floriano | — |
-| 2024 | 🤖 **Introdução à Robótica com IA** | CAIS TECH | 4h |
-| 2023 | 💻 **Informática Básica** | SENAI | 40h |
-
-### 🎓 Formação Acadêmica
-
-| Período | Curso | Instituição |
-|:---:|---|---|
-| 2026 – atual | **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** | IFPI Campus Floriano |
-| 2025 | **Técnico em Informática** | IFPI Campus Floriano |
-
----
-
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!-- Atividade gerada automaticamente -->
-<!--END_SECTION:activity-->
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=110&section=footer" alt="" width="100%" />
 
-**⭐ Se gostou de algum projeto, deixe uma estrela! Isso faz toda a diferença.**
+<br/>
 
-*"Código é poesia. Cada projeto é um verso."* ✨
+*"Código é poesia. Cada projeto é um verso."*
 
-[![LinkedIn](https://img.shields.io/badge/-Pedro%20Bosa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrobosa)
-[![Gmail](https://img.shields.io/badge/-pedrolucasfbosa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrolucasfbosa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Vamos%20conversar-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrobosa)
+[![Email](https://img.shields.io/badge/pedrolucasfbosa%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrolucasfbosa@gmail.com)
 
 </div>
